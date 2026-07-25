@@ -3,6 +3,8 @@
 Small digital builds with clear boundaries, working source, and a real checkout
 path.
 
+**[Open the live porQpine portfolio](https://opethician.github.io/porqpine-studio-portfolio/)** to inspect the three companion products in one responsive, tracker-free site.
+
 ## Available for $10
 
 | Service | What the starter scope covers | Order | See the source |
