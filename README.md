@@ -2,4 +2,4 @@
 
 We publish practical books and build focused web, video, and automation projects.
 
-**[Explore Savoth's books and projects](https://opethician.github.io/savoth-studio-portfolio/).** The site links to the book catalog and provides a direct contact route. Amazon shows current edition covers, prices, and availability.
+**[Browse all 19 books](https://opethician.github.io/savoth-studio-portfolio/books/).** The catalog links to current Amazon editions where available. Amazon shows current covers, prices, and availability.
